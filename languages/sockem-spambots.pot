@@ -1,0 +1,702 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Sock'Em SPAMbots\n"
+"POT-Creation-Date: "
+"2018-05-18 22:38-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: "
+"Blobfolio, LLC "
+"<hello@blobfolio.com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.0.6\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: "
+"node_modules\n"
+
+#: index.php:349
+#: settings.php:312
+msgid "Settings"
+msgstr ""
+
+#: index.php:405
+msgid ""
+"This site uses cookies "
+"to help verify the "
+"humanity of comment form "
+"submissions. Because "
+"most SPAM comes from "
+"robots, and many robots "
+"lack support for "
+"cookies, this is an "
+"effective and non-"
+"intrusive means of "
+"filtering out the junk."
+msgstr ""
+
+#: index.php:410
+msgid ""
+"This site is currently "
+"logging all comment form "
+"submissions, including "
+"those which are rejected "
+"as SPAM. This is done "
+"for quality assurance "
+"purposes only, and old "
+"data is automatically "
+"removed once it is no "
+"longer relevant."
+msgstr ""
+
+#: index.php:415
+#: settings.php:311
+msgid "Sock'Em SPAMbots"
+msgstr ""
+
+#: index.php:467
+msgid ""
+"Your browser must have "
+"Javascript support "
+"enabled to leave "
+"comments."
+msgstr ""
+
+#: index.php:547
+msgid "FAIL"
+msgstr ""
+
+#: index.php:548
+msgid "PASS"
+msgstr ""
+
+#: index.php:549
+msgid "N/A"
+msgstr ""
+
+#: index.php:559
+msgid ""
+"Logged in users are "
+"exempt from tests."
+msgstr ""
+
+#: index.php:572
+msgid ""
+"Javascript support must "
+"be enabled to leave "
+"comments."
+msgstr ""
+
+#: index.php:577
+msgid ""
+"Javascript is enabled."
+msgstr ""
+
+#: index.php:581
+msgid ""
+"Javascript is not "
+"required."
+msgstr ""
+
+#: index.php:590
+msgid ""
+"Cookie support must be "
+"enabled to leave "
+"comments."
+msgstr ""
+
+#: index.php:595
+msgid ""
+"Cookies are enabled."
+msgstr ""
+
+#: index.php:599
+msgid ""
+"Cookies are not required."
+msgstr ""
+
+#: index.php:605
+msgid ""
+"Invisible text fields "
+"should be left blank."
+msgstr ""
+
+#: index.php:610
+msgid ""
+"Invisible text field is "
+"empty."
+msgstr ""
+
+#: index.php:614
+msgid ""
+"Honeypot is not enabled."
+msgstr ""
+
+#: index.php:623
+msgid ""
+"Comment submitted too "
+"quickly."
+msgstr ""
+
+#: index.php:628
+msgid ""
+"Comment was not hastily "
+"submitted."
+msgstr ""
+
+#: index.php:632
+msgid ""
+"Comment speed is not "
+"tested."
+msgstr ""
+
+#: index.php:641
+#: settings.php:36
+msgid ""
+"The form had expired."
+msgstr ""
+
+#: index.php:643
+#: settings.php:38
+msgid ""
+"Please reload the page "
+"and try again."
+msgstr ""
+
+#: index.php:646
+msgid ""
+"Comment form has not "
+"expired."
+msgstr ""
+
+#: index.php:650
+msgid ""
+"Comment expiration is "
+"not tested."
+msgstr ""
+
+#: index.php:658
+#, php-format
+msgid ""
+"Comment contains too "
+"many links (%d)."
+msgstr ""
+
+#: index.php:663
+#, php-format
+msgid ""
+"Comments may only "
+"contain up to %d links."
+msgstr ""
+
+#: index.php:669
+#, php-format
+msgid ""
+"Commend did not contain "
+"excessive links (%d)."
+msgstr ""
+
+#: index.php:675
+msgid ""
+"Comment link count is "
+"not tested."
+msgstr ""
+
+#: index.php:683
+#, php-format
+msgid ""
+"Comment is too long (%d)."
+msgstr ""
+
+#: index.php:687
+#, php-format
+msgid ""
+"Comments cannot exceed "
+"%d characters in length."
+msgstr ""
+
+#: index.php:693
+#, php-format
+msgid ""
+"Comment was not too long "
+"(%d)."
+msgstr ""
+
+#: index.php:699
+msgid ""
+"Comment length is not "
+"tested."
+msgstr ""
+
+#: index.php:708
+msgid ""
+"Trackbacks have been "
+"disabled."
+msgstr ""
+
+#: index.php:717
+msgid ""
+"Pingbacks have been "
+"disabled."
+msgstr ""
+
+#: index.php:724
+msgid ""
+"Sock'EM SPAMbots has "
+"taken no action."
+msgstr ""
+
+#: index.php:734
+msgid "Error"
+msgstr ""
+
+#: index.php:832
+msgid "REDACTED"
+msgstr ""
+
+#: index.php:888
+msgid "TRUE"
+msgstr ""
+
+#: index.php:888
+msgid "FALSE"
+msgstr ""
+
+#: settings.php:15
+msgid ""
+"You do not have "
+"sufficient permissions "
+"to access this page."
+msgstr ""
+
+#: settings.php:56
+#, php-format
+msgid ""
+"The Sock'Em SPAMbots "
+"debug log could not be "
+"deleted.  Please "
+"manually remove %s."
+msgstr ""
+
+#: settings.php:67
+msgid ""
+"The Sock'Em SPAMbots "
+"debug log has been "
+"removed."
+msgstr ""
+
+#: settings.php:82
+msgid ""
+"The Sock'Em SPAMbots "
+"debug log could not be "
+"emptied.  Please make "
+"sure the server is "
+"allowed to write changes "
+"to it."
+msgstr ""
+
+#: settings.php:91
+msgid ""
+"The Sock'Em SPAMbots "
+"debug log has been "
+"emptied."
+msgstr ""
+
+#: settings.php:108
+#, php-format
+msgid ""
+"The Sock'Em SPAMbots log "
+"could not be created.  "
+"Please make sure the "
+"server is allowed to "
+"write changes to %s."
+msgstr ""
+
+#: settings.php:146
+msgid "closed"
+msgstr ""
+
+#: settings.php:147
+msgid "comment statuses"
+msgstr ""
+
+#: settings.php:148
+msgid "open"
+msgstr ""
+
+#: settings.php:149
+msgid "ping statuses"
+msgstr ""
+
+#: settings.php:156
+#, php-format
+msgid ""
+"The %s of your existing "
+"posts have been set to "
+"%s."
+msgstr ""
+
+#: settings.php:194
+msgid ""
+"Sock'Em SPAMbots' "
+"settings have been "
+"successfully saved."
+msgstr ""
+
+#: settings.php:208
+#: settings.php:219
+#: settings.php:231
+msgid "Warning"
+msgstr ""
+
+#: settings.php:209
+msgid ""
+"bbPress forum posts are "
+"outside the purview of "
+"this plugin; Sock'Em "
+"SPAMbots only helps "
+"protect against SPAM in "
+"regular comments."
+msgstr ""
+
+#: settings.php:220
+msgid ""
+"BuddyPress has its own "
+"commenting system "
+"outside the purview of "
+"this plugin; Sock'Em "
+"SPAMbots only helps "
+"protect against SPAM in "
+"regular comments."
+msgstr ""
+
+#: settings.php:233
+#, php-format
+msgid ""
+"Debug mode is currently "
+"enabled. This feature is "
+"%s intended for testing "
+"and should %s be left "
+"enabled on a live site."
+msgstr ""
+
+#: settings.php:234
+msgid "only"
+msgstr ""
+
+#: settings.php:235
+msgid "not"
+msgstr ""
+
+#: settings.php:247
+msgid ""
+"Trust Authenticated Users"
+msgstr ""
+
+#: settings.php:248
+msgid ""
+"Unless you have a SPAM "
+"registration problem "
+"(which is a whole other "
+"pickle), you can "
+"probably assumem that "
+"any user who has "
+"successfully logged into "
+"WordPress is human and "
+"exempt them from the "
+"other tests."
+msgstr ""
+
+#: settings.php:251
+msgid "Require Javascript"
+msgstr ""
+
+#: settings.php:252
+msgid ""
+"To test for Javascript "
+"support, a small script "
+"will be inserted into "
+"comment forms which will "
+"then insert a hidden "
+"field to the form."
+msgstr ""
+
+#: settings.php:255
+msgid "Require Cookies"
+msgstr ""
+
+#: settings.php:256
+msgid ""
+"To test for cookie "
+"support, a small cookie "
+"will be set when the "
+"form is loaded, and "
+"verified upon submission."
+msgstr ""
+
+#: settings.php:259
+msgid "Honeypot Field"
+msgstr ""
+
+#: settings.php:260
+msgid ""
+"An invisible text field "
+"is added to comment "
+"forms. Many generic "
+"formbots will try to "
+"fill it out anyway, "
+"which will help us "
+"reject their submission."
+msgstr ""
+
+#: settings.php:263
+msgid "Haste Makes SPAM"
+msgstr ""
+
+#: settings.php:264
+msgid ""
+"Robots are much faster "
+"than humans. This test "
+"will reject comments "
+"submitted in fewer than "
+"5 seconds from the time "
+"the page was first "
+"loaded."
+msgstr ""
+
+#: settings.php:267
+msgid "Form Expiration"
+msgstr ""
+
+#: settings.php:268
+msgid ""
+"This test adds an "
+"expiration to comment "
+"forms so the values "
+"cannot be indefinitely "
+"resubmitted."
+msgstr ""
+
+#: settings.php:271
+msgid "Excessive Links"
+msgstr ""
+
+#: settings.php:272
+msgid ""
+"SPAM comments are "
+"usually trying to sell "
+"something and contain "
+"many, many links. This "
+"test will reject "
+"comments containing more "
+"than 5."
+msgstr ""
+
+#: settings.php:275
+msgid "Short and Sweet"
+msgstr ""
+
+#: settings.php:276
+msgid ""
+"Comments should not be "
+"novels. This test "
+"rejects comments longer "
+"than 1500 characters."
+msgstr ""
+
+#: settings.php:285
+#, php-format
+msgid ""
+"%s are intended to "
+"provide a means for "
+"authors to keep track of "
+"who links to their "
+"posts, but more often "
+"than not this system is "
+"abused to send SPAM."
+msgstr ""
+
+#: settings.php:292
+#, php-format
+msgid ""
+"%s are similar to "
+"Trackbacks in that their "
+"purpose is to notify "
+"authors of links to "
+"their posts, however "
+"there is at least some "
+"degree of "
+"authentication, so they "
+"are not quite as bad."
+msgstr ""
+
+#: settings.php:326
+msgid "Debugging"
+msgstr ""
+
+#: settings.php:333
+msgid "Enable debugging"
+msgstr ""
+
+#: settings.php:338
+#, php-format
+msgid ""
+"Comment details and "
+"Sock'Em test results "
+"will be logged to %s. "
+"This can be useful if "
+"you want to make sure "
+"the plugin is working "
+"correctly, but you "
+"should not leave this "
+"enabled as it could "
+"expose comment "
+"information to outside "
+"parties."
+msgstr ""
+
+#: settings.php:353
+msgid "Empty log"
+msgstr ""
+
+#: settings.php:359
+#, php-format
+msgid ""
+"Click %s to view the log."
+msgstr ""
+
+#: settings.php:360
+msgid "here"
+msgstr ""
+
+#: settings.php:373
+msgid "Mass Update"
+msgstr ""
+
+#: settings.php:389
+msgid "Comment Status"
+msgstr ""
+
+#: settings.php:399
+msgid "Ping Status"
+msgstr ""
+
+#: settings.php:404
+msgid ""
+"WordPress does not "
+"retroactively apply "
+"changes to comment "
+"settings. Use the above "
+"forms to set the comment "
+"and/or pingback status "
+"for *ALL* posts."
+msgstr ""
+
+#: settings.php:416
+msgid ""
+"Comment Validation "
+"Methods"
+msgstr ""
+
+#: settings.php:421
+#, php-format
+msgid ""
+"SPAMbots are usually "
+"simple, lightweight, "
+"automated scripts, "
+"lacking robust features "
+"(and common decency).  "
+"The following "
+"modifications to the "
+"comment process can help "
+"trip them up %s "
+"interfering with your "
+"human visitors at all."
+msgstr ""
+
+#: settings.php:422
+msgid "without"
+msgstr ""
+
+#: settings.php:452
+msgid ""
+"Other Comment Features"
+msgstr ""
+
+#: settings.php:459
+msgid ""
+"Hide Comment Author Link"
+msgstr ""
+
+#: settings.php:465
+msgid ""
+"The point of SPAM "
+"comments is largely to "
+"trick human beings into "
+"clicking their links.  "
+"SPAM links are at best "
+"annoying, and at worst "
+"dangerous, so unless "
+"your visitors expect "
+"cross-promotion when "
+"they post comments, you "
+"shouldn't display them. "
+"This option only "
+"disables the *display* "
+"of commenter URLs on the "
+"frontend; the data is "
+"still collected and "
+"retained in case you "
+"change your mind."
+msgstr ""
+
+#: settings.php:470
+msgid ""
+"Some kinds of comments "
+"are actually supposed to "
+"come from robots, though "
+"their usefulness is "
+"questionable:"
+msgstr ""
+
+#: settings.php:502
+msgid "Save"
+msgstr ""
